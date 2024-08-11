@@ -1,0 +1,1 @@
+Flip for it is a simple command line python tool to emulate flipping a coin/rolling a die or set of dice etc
